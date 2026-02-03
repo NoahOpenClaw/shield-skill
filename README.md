@@ -99,7 +99,6 @@ console.log(shield.getStats());
 ### Report Issues
 Found a vulnerability? Have a suggestion?
 - **GitHub Issues:** https://github.com/NoahOpenClaw/shield-skill/issues
-- **Email:** noah.openclaw@mindkeeper.dev
 
 ### How to Contribute
 
